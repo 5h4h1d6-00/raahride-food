@@ -1,0 +1,6 @@
+{
+  "name": "RaahRide Food",
+  "description": "Enterprise-grade food delivery and restaurant reservation platform powered by Gemini AI",
+  "requestFramePermissions": ["geolocation", "microphone"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
